@@ -1,4 +1,4 @@
-- terraform-assignment
+
 ## AKS Cluster Creation
 ## Create a EKS cluster with Auto Scaling enabled and store the backend in s3( for 2 envs like dev, qa).
 
@@ -15,6 +15,8 @@ THe steps followed are :-
 - <img width="960" alt="image" src="https://github.com/KomalTater05/terraform-assignment/assets/155729023/653a9b00-f603-4d0d-a797-c0710517844c">
 - The backend is stored in s3 bucket
 - <img width="960" alt="image" src="https://github.com/KomalTater05/terraform-assignment/assets/155729023/29340099-d186-45df-96df-b3e63539369a">
+<img width="960" alt="image" src="https://github.com/KomalTater05/terraform-assignment/assets/155729023/f9200a16-bdb3-4160-84db-ecf3f1c8bb02">
+
 - Implement state locking using dynamodb preventing simultaneous changes in the same file
 # Cluster in dev worksapce
 - <img width="960" alt="image" src="https://github.com/KomalTater05/terraform-assignment/assets/155729023/f71e7728-0bf3-416f-b69c-26f64b198114">
