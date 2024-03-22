@@ -13,7 +13,7 @@ THe steps followed are :-
   - Implement the different environmnet using the worksapce approach
   - <img width="960" alt="image" src="https://github.com/KomalTater05/terraform-assignment/assets/155729023/7b980685-f88b-4073-8bad-16cadbbcc40c">
 - <img width="960" alt="image" src="https://github.com/KomalTater05/terraform-assignment/assets/155729023/653a9b00-f603-4d0d-a797-c0710517844c">
-- The backend is stored in an s3 bucket
+- The backend is stored in s3 bucket
 - <img width="960" alt="image" src="https://github.com/KomalTater05/terraform-assignment/assets/155729023/29340099-d186-45df-96df-b3e63539369a">
 - Implement state locking using dynamodb preventing simultaneous changes in the same file
 # Cluster in dev worksapce
